@@ -1,2 +1,2 @@
-# sy-hersh.github.io
+# https://sy-hersh.github.io
 Seymour Hersh's Substack mirror
